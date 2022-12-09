@@ -1,0 +1,25 @@
+{
+  "name": "promises-a-plus-impl",
+  "version": "1.0.1",
+  "description": "JS Promise implemenation following Promises/A+ standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhipingLi/promises-A-plus-impl.git"
+  },
+  "keywords": [
+    "promise",
+    "promises/A+",
+    "promise implemenation"
+  ],
+  "author": "Zhiping Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZhipingLi/promises-A-plus-impl/issues"
+  },
+  "homepage": "https://github.com/ZhipingLi/promises-A-plus-impl#readme",
+  "type": "module"
+}
